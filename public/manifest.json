@@ -3,17 +3,17 @@
   "name": "Grand Fiesta 81 ",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "logo.png",
       "sizes": "75x45 50x30 25x15",
       "type": "image/x-icon"
     },
     {
-      "src": "icon.png",
+      "src": "logo.png",
       "type": "image/png",
       "sizes": "250x150"
     },
     {
-      "src": "icon.png",
+      "src": "logo.png",
       "type": "image/png",
       "sizes": "500x300"
     }
